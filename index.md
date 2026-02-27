@@ -1,7 +1,7 @@
 <!-- HERO SECTION -->
 
 <p align="center">
-  <img https://github.com/vms7999/vaseem-engineer/issues/2#issue-4002083323 />
+  <img ![Image](https://github.com/user-attachments/assets/2265147c-960d-4580-849a-1ac4e905b21e) />
 </p>
 
 <h1 align="center">Vaseem Shaik</h1>
