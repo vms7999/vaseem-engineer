@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/images/profile.jpg" width="200" style="border-radius: 50%;" />
-</p>
 ---
 <!-- HERO SECTION -->
 
@@ -9,7 +6,7 @@
 </p>
 
 <h1 align="center">Vaseem Shaik</h1>
-<h3 align="center">Solar PV Design Engineer | Renewable Energy Specialist | Electrical Engineer</h3>
+<h3 align="center">Solar PV Design Engineer |  Electrical & Electronics Engineer | Rnewable Energy Engineer</h3>
 
 <p align="center">
   <b>Harnessing Sunshine for a Sustainable Tomorrow ☀️</b>
