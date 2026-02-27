@@ -1,13 +1,19 @@
 title: Vaseem Shaik
-description: Electrical & Electronics Engineer | Solar PV Design Engineer | Renewable Energy Enthusiast
-author: Vaseem Shaik
-email: vmswork2@gmail.com
+description: Solar PV Engineer | Renewable Energy Specialist
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+
 baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://yourgithubusername.github.io"
 
-theme: minima
+header:
+  logo: /assets/images/logo.png
 
-linkedin_username: vms7-995501213
-github_username: yourgithubusername
-
-markdown: kramdown
+navigation:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects
+  - title: Resume
+    url: /resume
