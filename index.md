@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Vaseem Shaik</h1>
-<h3 align="center">Solar PV Design Engineer |  Electrical & Electronics Engineer | Rnewable Energy Engineer</h3>
+<h3 align="center">Solar PV Design Engineer |  Electrical & Electronics Engineer | Rnewable Energy Engineer </h3>
 
 <p align="center">
   <b>Harnessing Sunshine for a Sustainable Tomorrow ☀️</b>
