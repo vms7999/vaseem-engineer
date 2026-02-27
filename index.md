@@ -1,7 +1,7 @@
 <!-- HERO SECTION -->
 
 <p align="center">
-  <img src="assets/images/profile.jpeg" width="180" style="border-radius: 50%;" />
+  <img src="assets/images/profile.jpg" width="180" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Vaseem Shaik</h1>
