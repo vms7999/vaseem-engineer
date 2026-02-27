@@ -1,7 +1,9 @@
 
 <p align="center">
   
-  <img src="https://github.com/user-attachments/assets/2265147c-960d-4580-849a-1ac4e905b21e" />
+  <img src="https://github.com/user-attachments/assets/2265147c-960d-4580-849a-1ac4e905b21e"
+  width="180"
+       style="border-radius: 50%; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" />
   
 </p>
 <p align="center">
