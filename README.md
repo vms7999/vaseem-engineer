@@ -35,7 +35,8 @@ I combine **technical engineering expertise** with **social awareness of sustain
 - 📐 Single Line Diagram (SLD) Preparation  
 - 🌡 Loss & Performance Ratio Analysis  
 - 🔌 Load Calculation & System Sizing  
-- 🛡 Electrical Safety & Grounding Systems  
+- 🛡 Electrical Safety & Grounding Systems
+<p align="center">
 
 ---
 
