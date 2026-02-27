@@ -1,7 +1,9 @@
 # ☀️ Vaseem Shaik  
 ### Solar PV Design Engineer | Electrical & Electronics Engineer | Rnewable Energy Engineer
-<img ![Image](https://github.com/user-attachments/assets/2265147c-960d-4580-849a-1ac4e905b21e) />
+
+
 <p align="center">
+  <img ![Image](https://github.com/user-attachments/assets/2265147c-960d-4580-849a-1ac4e905b21e) />
   <img src="https://img.shields.io/badge/Renewable%20Energy-Solar%20PV-brightgreen" />
   <img src="https://img.shields.io/badge/Engineering-Electrical-blue" />
   <img src="https://img.shields.io/badge/Focus-Sustainability-success" />
