@@ -55,8 +55,14 @@ I combine **technical engineering expertise** with **social awareness of sustain
 <div style="display:grid;
             grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
             gap:20px;">
+            
 
+ 
   <div>
+    <img src="https://github.com/user-attachments/assets/6b32a7ce-376a-4e50-9270-d248c159f837" style="width:100%; border-radius:12px;">
+  </div>
+  
+   <div>
     <img src="https://github.com/user-attachments/assets/8c7a57ac-e211-4468-892a-1322abc83c68" style="width:100%; border-radius:12px;" >
   </div>
 
@@ -66,10 +72,6 @@ I combine **technical engineering expertise** with **social awareness of sustain
 
   <div>
     <img src="https://github.com/user-attachments/assets/09b5e979-f0fc-4dc7-be5e-0114a05d7bb9" style="width:100%; border-radius:12px;">
-  </div>
-  
-   <div>
-    <img src="https://github.com/user-attachments/assets/6b32a7ce-376a-4e50-9270-d248c159f837" style="width:100%; border-radius:12px;">
   </div>
 
 </div>
