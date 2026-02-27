@@ -5,9 +5,9 @@
   
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Renewable%20Energy-Solar%20PV-brightgreen" />
-  <img src="https://img.shields.io/badge/Engineering-Electrical-blue" />
-  <img src="https://img.shields.io/badge/Focus-Sustainability-success" />
+  <img src="https://img.shields.io/badge/Renewable%20Energy-Solar%20PV%20Design-brightgreen" />
+  <img src="https://img.shields.io/badge/Engineering-Electrical%20&%20Electronics-blue" />
+  <img src="https://img.shields.io/badge/Focus-Development%20&%20Sustainability-success" />
 </p>
 
 ---
