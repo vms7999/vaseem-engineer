@@ -37,6 +37,8 @@ I combine **technical engineering expertise** with **social awareness of sustain
 - 🔌 Load Calculation & System Sizing  
 - 🛡 Electrical Safety & Grounding Systems
 <p align="center">
+ <img src="https://github.com/user-attachments/assets/d1ba47aa-efb2-4cef-b617-72d0c304c145" />
+</p>
 
 ---
 
