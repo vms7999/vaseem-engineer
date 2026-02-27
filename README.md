@@ -1,5 +1,5 @@
 # ☀️ Vaseem Shaik  
-### Renewable Energy Engineer | Solar PV Design Engineer | Sustainable Technology 
+### Solar PV Design Engineer | Electrical & Electronics Engineer | Rnewable Energy Engineer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Renewable%20Energy-Solar%20PV-brightgreen" />
