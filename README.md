@@ -1,6 +1,10 @@
 
 <p align="center">
+  
   <img src="https://github.com/user-attachments/assets/2265147c-960d-4580-849a-1ac4e905b21e" />
+  
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Renewable%20Energy-Solar%20PV-brightgreen" />
   <img src="https://img.shields.io/badge/Engineering-Electrical-blue" />
   <img src="https://img.shields.io/badge/Focus-Sustainability-success" />
