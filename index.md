@@ -1,7 +1,7 @@
 <!-- HERO SECTION -->
 
 <p align="center">
-![Image](https://github.com/user-attachments/assets/2265147c-960d-4580-849a-1ac4e905b21e)
+(https://github.com/user-attachments/assets/2265147c-960d-4580-849a-1ac4e905b21e)
 </p>
 
 <h1 align="center">Vaseem Shaik</h1>
