@@ -90,6 +90,20 @@ I combine **technical engineering expertise** with **social awareness of sustain
 - Specific Production: **1306 kWh/kWp/year**
 - Performance Ratio: **72.79%**
 - Detailed Loss Analysis & P50/P90 Evaluation Completed
+## 📄 My Resume
+
+<div style="text-align:center; margin:20px;">
+  <a href="MEHRSHINE_s 50 KW at Nuzvid by Vaseem_Project.VC0-Report.pdf](https://github.com/user-attachments/files/25612226/MEHRSHINE_s.50.KW.at.Nuzvid.by.Vaseem_Project.VC0-Report.pdf"
+     target="_blank"
+     style="padding:12px 25px;
+            background-color:#2ecc71;
+            color:white;
+            text-decoration:none;
+            border-radius:8px;
+            font-weight:bold;">
+     📥 Download project(PVsyst)-1 
+  </a>
+</div>
 
 #### 🔍 Engineering Scope:
 
