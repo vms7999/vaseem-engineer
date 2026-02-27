@@ -1,19 +1,13 @@
-title: Vaseem Shaik
-description: Solar PV Engineer | Renewable Energy Specialist
-theme: just-the-docs
-plugins:
-  - jekyll-feed
+title: "Vaseem Shaik"
+description: "Solar PV Design Engineer | Renewable Energy Specialist"
+theme: jekyll-theme-cayman
 
 baseurl: ""
 url: "https://yourgithubusername.github.io"
 
-header:
-  logo: /assets/images/logo.png
+author:
+  name: "Vaseem Shaik"
+  email: "vmswork2@gmail.com"
 
-navigation:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects
-  - title: Resume
-    url: /resume
+plugins:
+  - jekyll-feed
