@@ -1,6 +1,7 @@
-
+<p align="center">
+  <img src="assets/images/profile.jpg" width="200" style="border-radius: 50%;" />
+</p>
 ---
-vaseem pic1.jpeg
 <!-- HERO SECTION -->
 
 <p align="center">
