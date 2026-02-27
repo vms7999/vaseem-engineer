@@ -1,145 +1,133 @@
-# vaseems-engineer
-Electrical &amp; Electronics Engineer specializing in Solar PV Design. Experienced in system sizing, energy yield analysis, and shading assessment using PVsyst, AutoCAD, and OpenSolar.
+# ☀️ Vaseem Shaik  
+### Renewable Energy Engineer | Solar PV Design Engineer | Sustainable Technology 
 
-📍 Nuzvid, Andhra Pradesh, India  
-📧 vmswork2@gmail.com  
-📱 +91 7013117315  
-🔗 LinkedIn: https://www.linkedin.com/in/vms7-995501213  
-
----
-
-## 🚀 About Me
-
-I am an Electrical and Electronics Engineering graduate with specialized training as a **Solar Rooftop Supervisor** from Tata Power Skill Development Institute (TPSDI).
-
-I specialize in:
-
-- Solar PV System Design  
-- Energy Yield Analysis  
-- Rooftop Installation Supervision  
-- Electrical Systems & Safety  
-- Renewable Energy Technologies  
-
-I am proficient in **PVsyst, OpenSolar, and AutoCAD** for system sizing, shading analysis, SLD preparation, and performance evaluation.
-
-Currently pursuing **M.A. in Sociology (2024–2026)** to integrate technical expertise with social understanding of sustainable energy systems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Renewable%20Energy-Solar%20PV-brightgreen" />
+  <img src="https://img.shields.io/badge/Engineering-Electrical-blue" />
+  <img src="https://img.shields.io/badge/Focus-Sustainability-success" />
+</p>
 
 ---
 
-## 🎓 Education
+## 🌍 About Me
 
-### 🎓 Master of Arts (M.A.) – Sociology (2024–2026)  
-Central University of Gujarat  
+I am an **Electrical & Electronics Engineer** specialized in **Solar PV System Design and Renewable Energy Technologies**.  
 
-### 🎓 B.Tech – Electrical & Electronics Engineering (2016–2020)  
-Jawaharlal Nehru Technological University, Kakinada  
+With practical training in rooftop supervision and hands-on experience in PV system simulation, I focus on designing **efficient, reliable, and sustainable solar solutions**.
 
----
+🎓 B.Tech in Electrical & Electronics Engineering  
+🎓 Currently pursuing M.A. in Sociology (Energy & Society focus)  
 
-## 💼 Work Experience
-
-### 🔹 Freelance Solar PV Designer (2020–2022)
-
-- Designed rooftop solar PV systems using PVsyst & OpenSolar  
-- Performed energy yield estimation and loss analysis  
-- Prepared layout drawings and technical proposals  
-- Conducted basic site assessments  
+I combine **technical engineering expertise** with **social awareness of sustainable development and energy inclusion**.
 
 ---
 
-## 🔆 Featured Solar Project
+## 🔆 Core Expertise
 
-### ☀️ MEHRSHINE LLP – 50 kW Solar Project (Nuzvid, India)
-
-**Project Type:** Grid-Connected Rooftop System  
-**Software Used:** PVsyst  
-
-### 📊 Key Technical Details:
-
-- Installed Capacity: 23.94 kWp  
-- Annual Energy Production: 31,268 kWh/year  
-- Specific Production: 1306 kWh/kWp/year  
-- Performance Ratio (PR): 72.79%  
-- PV Modules: 190 Wp (126 modules)  
-- Inverter: 15 kW  
-
-### 🔍 Engineering Analysis Included:
-
-- Shading Assessment  
-- Loss Diagram Analysis  
-- Temperature & Soiling Loss Evaluation  
-- DC & AC System Optimization  
-- P50 / P90 Energy Yield Estimation  
+- ⚡ Solar PV System Design  
+- 📊 Energy Yield Analysis (PVsyst)  
+- 🏗 Rooftop Solar Installation Supervision  
+- 📐 Single Line Diagram (SLD) Preparation  
+- 🌡 Loss & Performance Ratio Analysis  
+- 🔌 Load Calculation & System Sizing  
+- 🛡 Electrical Safety & Grounding Systems  
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Technical Tools
 
-### ⚡ Solar & Electrical
-- Load Calculation & System Sizing  
-- Earthing & Grounding  
-- Electrical Safety Standards  
-- Single Line Diagram (SLD) Preparation  
-- Basic Protection Concepts  
-
-### 💻 Software Tools
-- PVsyst  
-- OpenSolar  
-- AutoCAD  
-- Microsoft Office  
-
-### 👨‍💻 Programming
-- C Programming  
+| Design & Simulation | Engineering | Productivity |
+|---------------------|------------|--------------|
+| PVsyst | Earthing & Grounding | MS Office |
+| OpenSolar | Protection Concepts | Technical Documentation |
+| AutoCAD | Electrical Safety Standards | Report Preparation |
 
 ---
 
-## 🏭 Internship
+## ☀️ Featured Solar Project
 
-### Solar Rooftop Supervisor – Mundra  
+### 50 kW Grid-Connected Rooftop Solar Plant  
+**Location:** Nuzvid, Andhra Pradesh, India  
 
-- Rooftop installation practices  
-- Safety compliance  
-- Commissioning process  
-- Site supervision  
+#### 📈 Performance Highlights:
+
+- Installed Capacity: **23.94 kWp**
+- Annual Energy Production: **31,268 kWh/year**
+- Specific Production: **1306 kWh/kWp/year**
+- Performance Ratio: **72.79%**
+- Detailed Loss Analysis & P50/P90 Evaluation Completed
+
+#### 🔍 Engineering Scope:
+
+- Shading Analysis  
+- Temperature Loss Assessment  
+- Soiling & Mismatch Evaluation  
+- Inverter Efficiency Analysis  
+- Energy Injection to Grid Study  
+
+---
+
+## 🔬 Academic Engineering Project
+
+### Dynamic Wireless Charging System for Electric Vehicles
+
+- Designed LSPS Compensation Topology  
+- Focused on EV charging while in motion  
+- Emphasized efficiency and power transfer optimization  
+
+---
+
+## 🏭 Industry Exposure
+
+**Solar Rooftop Supervisor Training**  
+- Installation standards  
+- Commissioning processes  
+- Site safety compliance  
+- Field supervision best practices  
 
 ---
 
 ## 📜 Certifications
 
-- RE100: Introduction to Renewable Energy – Solar Energy International (SEI)  
-- EPA 608 Certification (SkillCat)  
-- Schneider Electric SkillCat Accreditation  
-- Electric Power Systems – Buffalo State College  
-- Electric Industry Operations and Markets – Duke University  
-- TCS-iON Career Edge – Young Professional  
+- Renewable Energy Certification (SEI – RE100)  
+- Electric Power Systems  
+- Electric Industry Operations & Markets  
+- Electrical Safety & Grounding Accreditation  
+- EPA 608 Certification  
 
 ---
 
-## 📚 Academic Project
+## 🌱 Vision
 
-### 🔋 Modelling and Simulation of Dynamic Wireless Charging System  
+My mission is to contribute to:
 
-Designed LSPS compensation topology for charging electric vehicles while moving.
-
----
-
-## 🌍 Languages
-
-- Telugu – Native/Bilingual  
-- Hindi – Proficient  
-- English – Fluent  
+✔ Sustainable solar infrastructure  
+✔ Clean energy transition  
+✔ Technically optimized PV systems  
+✔ Socially inclusive energy access  
 
 ---
 
-## 🎯 Career Objective
+## 📫 Connect With Me
 
-Seeking an **entry-level Solar Design Engineer or Electrical Engineer position** where I can contribute my:
+📧 Email: vmswork2@gmail.com  
+📍 Location: Andhra Pradesh, India  
+🔗 LinkedIn: https://www.linkedin.com/in/vms7-995501213  
 
-- Solar PV design expertise  
-- Field supervision experience  
-- Energy yield analysis skills  
-- Strong technical foundation  
+---
 
-to a progressive renewable energy organization.
+## 🚀 Career Objective
 
-```
+Seeking opportunities as:
+
+- Solar PV Design Engineer  
+- Renewable Energy Engineer  
+- Electrical Design Engineer  
+
+Where I can apply technical expertise to build efficient and sustainable energy systems.
+
+---
+
+<p align="center">
+  <b>“Harnessing Sunshine for a Sustainable Tomorrow.” ☀️</b>
+</p>
